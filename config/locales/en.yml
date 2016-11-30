@@ -27,4 +27,8 @@ en:
         home:
             title: My Notes
             welcome: Welcome to my Notes Site
+        
+        contact:
+            title: Contact Us
+            contact_us: Complete the following form to get in touch with us
     
